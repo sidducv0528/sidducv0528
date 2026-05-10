@@ -30,9 +30,9 @@ class SidduVarikuppala:
     def __init__(self):
         self.name         = "Siddu Varikuppala"
         self.role         = "Data Science & ML Enthusiast"
-        self.education    = "B.Sc (Honours) CBCS  |  CGPA: 7.9"
+        self.education    = "B.Sc (Honours) CBCS  "
         self.college      = "A.V. Arts, Science & Commerce College, Hyderabad"
-        self.training     = "IIT Roorkee Data Science with AI (via Intellipaat)"
+        self.training     = "IIT Roorkee Data Science with AI "
         self.location     = "Hyderabad, Telangana, India"
         self.achievements = [
             "NCC B Certificate  A Grade",
