@@ -10,7 +10,7 @@
 [![Live App](https://img.shields.io/badge/Live%20App-ML%20Predictor-1A3C6B?style=for-the-badge&logo=vercel&logoColor=white)](https://sidducv0528.github.io/ml-prediction-app)
 [![Profile Views](https://komarev.com/ghpvc/?username=sidducv0528&label=Profile%20Views&color=E87722&style=for-the-badge)](https://github.com/sidducv0528)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1A73E8&center=true&vCenter=true&repeat=true&width=650&lines=Data+Science+%7C+ML+%7C+Analytics;8+Projects+%7C+Kaggle+Published;Python+%C2%B7+SQL+%C2%B7+Power+BI;Now+Learning%3A+Deep+Learning+%F0%9F%A7%A0;Open+to+DS%2FAnalyst%2FML+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1A73E8&center=true&vCenter=true&repeat=true&width=650&lines=Data+Science+%7C+ML+%7C+Analytics;12%2B+Deployed%2FPublished+Projects;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+TensorFlow;Now+Training%3A+Python+%40+QSpiders;Open+to+DS%2FAnalyst%2FML+Roles" />
 
 </div>
 
@@ -18,23 +18,26 @@
 
 ## 👋 About Me
 
-I'm a Data Science undergrad who treats every dataset like a question worth arguing with — I don't stop at "the model works," I ask *why* it works, where it breaks, and what a stakeholder would actually do with the answer. That habit is what turned a routine Bank Loan analysis into a full risk-driver investigation, and a cricket dataset into a season-long investigative story.
+I'm a Data Science undergrad who treats every dataset like a question worth arguing with — I don't stop at "the model works," I ask *why* it works, where it breaks, and what a stakeholder would actually do with the answer. That habit is what turned a 45-store forecasting exercise into a store-by-store honesty check on model accuracy, and a cricket dataset into a season-long investigative story.
 
-I work across the full stack of a data role: cleaning and modeling data in **SQL**, building explainable ML in **Python**, and shipping decision-ready dashboards in **Power BI**. I'm most useful in the space between "the data says X" and "here's what we should do about it."
+I work across the full stack of a data role: cleaning and modeling data in **SQL**, building explainable ML and deep learning in **Python**, and shipping decision-ready dashboards in **Power BI**. I'm most useful in the space between "the data says X" and "here's what we should do about it."
 
 ```python
 class SidduVarikuppala:
     def __init__(self):
         self.name          = "Siddu Varikuppala"
-        self.roles_targeted = ["Data Scientist", "Data Analyst", "ML Engineer"]
+        self.roles_targeted = ["Data Analyst", "BI Analyst", "Business Analyst", "Data Science Intern"]
         self.education     = "B.Sc (Honours) CBCS — Mathematics, Statistics & Data Science"
         self.college       = "A.V. Arts, Science & Commerce College, Hyderabad"
-        self.training      = "IIT Roorkee Data Science with AI (Intellipaat) 🎓"
+        self.training      = [
+            "IIT Roorkee — Data Science with AI (Intellipaat) 🎓",
+            "QSpiders, Dilsukhnagar — Data Analytics Internship, 6 months (certification on completion) 💻"
+        ]
         self.location      = "Hyderabad, Telangana, India"
-        self.core_skills   = ["Python", "SQL", "Power BI", "DAX", "Scikit-learn", "Statistics"]
+        self.core_skills   = ["Python", "SQL", "Power BI", "DAX", "Scikit-learn", "TensorFlow", "Statistics"]
         self.currently_exploring = "Deep Learning — Neural Networks"
         self.philosophy    = "Every chart should answer a decision, not just describe a number."
-        self.open_to       = "Internships · Research Roles · ML/DS Collaborations"
+        self.open_to       = "Internships · Full-time Analyst Roles · ML/DS Collaborations"
         self.email         = "sidducv0528@gmail.com"
 
     def say_hi(self):
@@ -50,9 +53,9 @@ class SidduVarikuppala:
 | 📊 Data Analyst | 🤖 Machine Learning | 🧬 Data Science |
 |---|---|---|
 | SQL-driven data prep | Supervised learning (classification & regression) | End-to-end pipelines: EDA → modeling → deployment |
-| Power BI + DAX dashboards | Feature engineering, model evaluation (ROC/AUC, confusion matrix) | Statistical hypothesis testing (Z/t/chi-square/ANOVA) |
-| KPI design & stakeholder reporting | Random Forest, Decision Trees, Logistic/Linear Regression | Deep Learning — currently building this up |
-| Risk & trend storytelling | Live model deployment (Streamlit, GitHub Pages) | Kaggle dataset publishing |
+| Power BI + DAX dashboards | Feature engineering, model evaluation (ROC/AUC, confusion matrix) | Time-series forecasting (SARIMA) |
+| KPI design & stakeholder reporting | Random Forest, Decision Trees, Logistic/Linear Regression, ANN | Kaggle dataset publishing |
+| Trend & performance storytelling | Live model deployment (Streamlit, GitHub Pages) | Deep Learning — currently building this up |
 
 </div>
 
@@ -69,11 +72,12 @@ class SidduVarikuppala:
 ### Machine Learning & Data Science
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-SARIMA-8A5A0C?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistical%20Testing-4B0082?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Business Intelligence & Analytics
 
@@ -82,12 +86,9 @@ class SidduVarikuppala:
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Currently Deepening
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ### Tools & Platforms
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -100,40 +101,71 @@ class SidduVarikuppala:
 
 | Role Fit | Technique | Domain | Key Metric | Project |
 |---|---|---|---|---|
-| Analyst / BI | Power BI + SQL + DAX | Banking / Credit Risk 🏦 | **38,576 Records Analyzed** | Bank Loan Risk Analytics Dashboard |
+| Analyst / Data Science | SARIMA × 45 + Streamlit | Retail Forecasting 🛒 | **3.66% Avg. MAPE — 45 Stores** | Walmart Sales Forecasting |
+| ML / Deep Learning | ANN (TensorFlow/Keras) | Retail / Resale Pricing 📱 | **R² ≈ 0.98** | Used Phone Price Predictor |
+| Analyst | EDA + Excel Dashboard | Sports Analytics 🏏 | **17,477 Balls · 74 Matches** | IPL 2026 Season Analysis |
+| Full-Stack | Google Apps Script | EdTech Automation 🎓 | Live Dashboard + Ticketing | Student Performance & Issue Management |
 | ML | Random Forest | Ensemble ML | **80% Accuracy** | Customer Churn Prediction |
 | ML | Decision Tree | Healthcare AI | **96.2% Accuracy** | Heart Disease Prediction |
 | Data Science | Linear Regression | Financial Analytics | **R² = 0.875** | Insurance Premium Prediction |
 | ML | Logistic Regression | Banking Analytics | **AUC = 0.992** | Bank Deposit Prediction |
-| Analyst | EDA + Dashboard | Sports Analytics 🏏 | **17,477 Balls · 74 Matches** | IPL 2026 Season Analysis |
-| Data Science | KNN + K-Means | Clustering | Pattern Analysis | Iris + Customer Segmentation |
 | Analyst | EDA + Visualization | Telecom Analytics | **7,043 Records** | Customer Churn Deep EDA |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Business Intelligence Flagship
+### 🛒 Business Intelligence / Forecasting Flagship
 
-**[Bank Loan Risk Analytics Dashboard](https://github.com/sidducv0528/Bank-Loan-Risk-Analytics-Dashboard)**
-End-to-end credit risk and portfolio monitoring solution built on **38,576 loan records** — SQL for data preparation, Power BI for a multi-page interactive report driven by custom DAX measures.
+**[Walmart Sales Forecasting Dashboard](https://github.com/sidducv0528/Walmart-Sales-Forecasting)**
+Store-level weekly sales forecasting for all **45 Walmart stores**, 12 weeks ahead — 45 independent SARIMA models (not one chain-wide average), wrapped in a live 6-page Streamlit dashboard.
 
-- **Portfolio Monitoring** — real-time KPIs on total funded amount, amount received, and loan volume trends
-- **Risk Drivers Page** — dedicated view breaking down default risk by grade, term, and loan purpose
-- **Insight — Grade Risk** — Grade G loans carry a **31.3% charge-off rate** vs just **5.7%** for Grade A
-- **Insight — Loan Term** — 60-month loans default at **more than 2×** the rate of 36-month loans
-- **Insight — Purpose** — small business loans carry the **highest charge-off rate at 25.6%**
-- **Deliverables** — SQL Server data model, interactive multi-page Power BI dashboard, 20-slide banking-themed presentation deck, full documented repository
+- **3.66% average MAPE** — 44 of 45 stores land in the "Excellent" accuracy band (< 10% error)
+- **Best store** — Store 37 at 1.64% MAPE · **Watch list** — Store 35 at 14.15%
+- **Honest modeling** — exogenous variables were tested and deliberately excluded, not just defaulted away
+- **Deliverables** — full report, methodology doc, pipeline diagram, slide deck, and video walkthrough
 
-**Tech:** Power BI · SQL Server · DAX · Power Query · Data Modeling
-**Status:** ✅ Completed — full repository package with documentation
+**Tech:** Python · statsmodels (SARIMA) · Pandas · Plotly · Streamlit
+**Live:** [walmart-sales-forecasting-stores.streamlit.app](https://walmart-sales-forecasting-stores.streamlit.app/) · **Demo:** [YouTube walkthrough](https://youtu.be/UXW4FTEN994)
+**Status:** ✅ Deployed — full repository with documentation suite
+
+---
+
+### 📱 Deep Learning Flagship
+
+**[Used Phone Price Predictor](https://github.com/sidducv0528/Phone-Price-Predictor)**
+A feed-forward ANN (Dense → BatchNorm → Dropout, 3 hidden layers) predicting used-smartphone resale value from specs, condition, and market demand — trained on **~1,000,000 listings** across 28 features.
+
+- **R² ≈ 0.98** — model explains ~98% of resale-price variance
+- **MAE ≈ ₹1,600–1,700** — average prediction error on a held-out test set
+- Deployed as a live, interactive Streamlit app
+
+**Tech:** TensorFlow/Keras · Python · Streamlit
+**Live:** [phone-price-predictor-siddu.streamlit.app](https://phone-price-predictor-siddu.streamlit.app/) · **Demo:** [YouTube walkthrough](https://youtu.be/CWqIut7CfO0)
+**Status:** ✅ Deployed — training notebook + data dictionary included
+
+---
+
+### 🏏 Data Analytics Flagship
+
+**[IPL 2026 — From Ball to Trophy](https://github.com/sidducv0528/IPL-2026-Performance-Analytics)**
+End-to-end sports analytics project — from 17,477 raw ball-by-ball records to a fully interactive Excel dashboard. Real IPL 2026 data. Published dataset on Kaggle.
+
+- **Scale** — 74 matches · 10 teams · 17,477 balls · 27,296 runs · 879 wickets
+- **Batting Analysis** — Top 10 scorers, strike-rate trends, sixes heatmap, Orange Cap race
+- **Bowling Analysis** — Top 10 wicket-takers, economy rates, Purple Cap race decided on the last ball
+- **Key Upset** — Gujarat Titans led every stat all season; RCB won the trophy — six data-backed insights explain how
+
+🌟 **Highlight:** Vaibhav Sooryavanshi — 776 runs · SR 226.90 · youngest Orange Cap winner in IPL history at age 15.
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Microsoft Excel · Kaggle
+[Kaggle Dataset](https://www.kaggle.com/datasets/sidduv0528/ipl-2026-complete-season-analysis) · [GitHub Repo](https://github.com/sidducv0528/IPL-2026-Performance-Analytics)
 
 ---
 
 ### 🔧 Full-Stack Flagship
 
 **[Smart Student Performance and Issue Management System](https://github.com/sidducv0528/Student-Performance-Issue-Management-System)**
-Full-Stack Automated Academic Platform with real dashboards, automated email alerts, and live ticket tracking.
+Full-stack automated academic platform with live dashboards, automated email alerts, and live ticket tracking — built entirely on Google Apps Script + Sheets API.
 
 - **Student Dashboard** — per-subject academic performance tracking in real time
 - **Ticket System** — students raise issues; admin resolves via automated workflow
@@ -144,35 +176,24 @@ Full-Stack Automated Academic Platform with real dashboards, automated email ale
 
 ---
 
-### 🏏 Data Analytics Flagship
+## 📁 All Projects
 
-**[IPL 2026 — From Ball to Trophy](https://github.com/sidducv0528/IPL-2026-Performance-Analytics)**
-End-to-end sports analytics project — from 17,477 raw ball-by-ball records to a fully interactive Excel dashboard. Real IPL 2026 data. Published dataset on Kaggle.
+Every project below is public, live, and verifiable — click through to the repo.
 
-- **Scale** — 74 matches · 10 teams · 17,477 balls · 27,296 runs · 879 wickets
-- **Batting Analysis** — Top 10 scorers, Strike Rate trends, Sixes heatmap, Orange Cap race
-- **Bowling Analysis** — Top 10 wicket takers, Economy rates, Purple Cap drama (decided on the very last ball!)
-- **Venue Intelligence** — Wankhede vs Ahmedabad vs Jaipur — how pitch type changed outcomes
-- **Key Upset** — Gujarat Titans led every stat all season; RCB won the trophy. Six data-backed insights explain how.
-- **Deliverables** — Jupyter Notebook + Interactive Excel Dashboard + Published Kaggle Dataset
-
-🌟 **Highlight:** Vaibhav Sooryavanshi — 776 runs · SR 226.90 · 72 sixes — youngest Orange Cap winner in IPL history at age 15.
-**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Microsoft Excel · Kaggle · Google Colab
-[Kaggle Dataset](https://www.kaggle.com/datasets/sidduv0528/ipl-2026-complete-season-analysis) · [Kaggle Notebook](https://www.kaggle.com/sidduv0528) · [GitHub Repo](https://github.com/sidducv0528/IPL-2026-Performance-Analytics)
-
----
-
-### 🤖 Machine Learning Projects
-
-| [Customer Churn — Random Forest](https://github.com/sidducv0528/customer-churn-random-forest)<br>Telecom churn predictor with feature importance and confusion matrix.<br>`Random Forest` `Scikit-learn` `EDA` — **80% Accuracy** | [Heart Disease — Decision Tree](https://github.com/sidducv0528/heart-disease-prediction)<br>Clinical predictor with Z-score and IQR outlier treatment.<br>`Decision Tree` `Healthcare AI` `Scipy` — **96.2% Accuracy** |
-| --- | --- |
-| [Insurance Premium — Linear Regression](https://github.com/sidducv0528/insurance-premium-prediction)<br>Premium estimator with BMI analysis and feature engineering.<br>`Linear Regression` `Feature Engineering` — **R² = 0.875** | [Bank Deposit — Logistic Regression](https://github.com/sidducv0528/bank-deposit-prediction)<br>Subscription predictor on 41,000+ records with ROC analysis.<br>`Logistic Regression` `ROC Curve` — **AUC = 0.992** |
-| [Customer Churn EDA](https://github.com/sidducv0528/customer-churn-eda)<br>Deep EDA on 7,043 telecom customers — patterns and visualizations.<br>`Pandas` `Seaborn` `Matplotlib` — **7,043 records** | [Live ML Prediction Web App](https://sidducv0528.github.io/ml-prediction-app)<br>4 ML models in browser — zero backend, real-time predictions!<br>`ML Logic` `Interactive UI` — **[Try it live!](https://sidducv0528.github.io/ml-prediction-app)** |
-
-### 🧱 Foundations
-
-[30 Days SQL Challenge](https://github.com/sidducv0528/30-Days-SQL-Challenge-v1) — 30 consecutive days — fundamentals to advanced interview prep. `SQL` `T-SQL` `Joins` `Triggers` `Views` `Top 50 Interview Questions`
-[Python Fundamentals and Mini Projects](https://github.com/sidducv0528/Python-Fundamentals-and-Mini-Projects) — Structured learning with mini-projects and CI/CD workflow. `Python` `OOP` `Calculator` `Banking App` `GitHub Actions`
+| # | Project | What it does | Tech | Link |
+|---|---|---|---|---|
+| 1 | **Walmart Sales Forecasting** | 45 independent SARIMA models forecasting weekly store sales 12 weeks out — 3.66% avg MAPE, deployed 6-page dashboard | Python, statsmodels, Streamlit | [Repo](https://github.com/sidducv0528/Walmart-Sales-Forecasting) · [Live App](https://walmart-sales-forecasting-stores.streamlit.app/) |
+| 2 | **Used Phone Price Predictor** | ANN predicting resale price of used phones from specs/condition — R² ≈ 0.98 on ~1M listings | TensorFlow/Keras, Streamlit | [Repo](https://github.com/sidducv0528/Phone-Price-Predictor) · [Live App](https://phone-price-predictor-siddu.streamlit.app/) |
+| 3 | **IPL 2026 Performance Analytics** | 17,477 ball-by-ball records → interactive Excel dashboard; dataset published on Kaggle | Python, Pandas, Excel | [Repo](https://github.com/sidducv0528/IPL-2026-Performance-Analytics) · [Kaggle](https://www.kaggle.com/datasets/sidduv0528/ipl-2026-complete-season-analysis) |
+| 4 | **Student Performance & Issue Management System** | Full-stack academic dashboard with automated ticketing and email alerts | Google Apps Script, Sheets API | [Repo](https://github.com/sidducv0528/Student-Performance-Issue-Management-System) |
+| 5 | **Customer Churn — Random Forest** | Telecom churn prediction with feature importance and confusion matrix — 80% accuracy | Scikit-learn, Random Forest | [Repo](https://github.com/sidducv0528/customer-churn-random-forest) |
+| 6 | **Heart Disease — Decision Tree** | Clinical predictor with Z-score/IQR outlier treatment — 96.2% accuracy | Scikit-learn, Decision Tree | [Repo](https://github.com/sidducv0528/heart-disease-prediction) |
+| 7 | **Insurance Premium — Linear Regression** | Premium estimator with BMI analysis and feature engineering — R² = 0.875 | Scikit-learn, Linear Regression | [Repo](https://github.com/sidducv0528/insurance-premium-prediction) |
+| 8 | **Bank Deposit — Logistic Regression** | Term-deposit subscription predictor on 41,199 records — AUC = 0.992 | Scikit-learn, Logistic Regression | [Repo](https://github.com/sidducv0528/bank-deposit-prediction) |
+| 9 | **Customer Churn EDA** | Deep EDA on 7,043 telecom customers — behavioural and demographic patterns | Pandas, Seaborn, Matplotlib | [Repo](https://github.com/sidducv0528/customer-churn-eda) |
+| 10 | **Live ML Prediction Web App** | 4 ML models running client-side in the browser — zero backend | JavaScript, ML logic | [Live App](https://sidducv0528.github.io/ml-prediction-app) |
+| 11 | **30 Days SQL Challenge** | 30 consecutive days, fundamentals to advanced interview prep | SQL, T-SQL | [Repo](https://github.com/sidducv0528/30-Days-SQL-Challenge-v1) |
+| 12 | **Python Fundamentals & Mini Projects** | Structured Python learning path with mini-projects and CI/CD workflow | Python, OOP, GitHub Actions | [Repo](https://github.com/sidducv0528/Python-Fundamentals-and-Mini-Projects) |
 
 ---
 
@@ -198,17 +219,17 @@ End-to-end sports analytics project — from 17,477 raw ball-by-ball records to 
 | Achievement                                      | Details                                            | Status      |
 | ------------------------------------------------ | -------------------------------------------------- | ----------- |
 | IIT Roorkee — Data Science with AI (Intellipaat) | Python, ML, AI, Deep Learning                      | In Progress |
-| Bank Loan Risk Analytics Dashboard               | Power BI · SQL · DAX — 38,576 records              | ✅ Completed |
+| QSpiders (Dilsukhnagar) — Data Analytics Internship  | 6 months, certificate on completion                | In Progress |
+| Walmart Sales Forecasting                        | SARIMA × 45 stores — 3.66% MAPE, deployed          | ✅ Completed |
+| Used Phone Price Predictor                       | ANN/TensorFlow — R² ≈ 0.98, deployed               | ✅ Completed |
 | Power BI                                         | Dashboards, DAX measures, data modeling            | ✅ Completed |
 | SQL for Data Analysis                            | Advanced querying, joins, triggers, views          | ✅ Certified |
 | Microsoft Excel for Analytics                    | Dashboards, pivot tables, formulas                 | ✅ Certified |
 | Tata Data Visualisation — Forage                 | Business insights, real-world simulation           | ✅ Certified |
 | NCC B Certificate — A Grade                      | National Cadet Corps — Leadership and Discipline   | ✅ Achieved  |
 | 30-Day SQL Challenge                             | 30 days of consistent daily SQL practice           | ✅ Completed |
-| 8 Projects                                       | ML, Analytics, BI, Full-Stack, Sports Data — all live | 🚀 Live      |
 | Kaggle Dataset Published                         | IPL 2026 Complete Season Analysis — public dataset | 🚀 Live      |
 | Live ML Web App                                  | 4 models, production-ready on GitHub Pages         | 🚀 Live      |
-| Deep Learning                                    | Neural Networks (IIT Roorkee / Intellipaat)        | 🌱 Learning  |
 
 ---
 
@@ -219,7 +240,7 @@ End-to-end sports analytics project — from 17,477 raw ball-by-ball records to 
 [![Gmail](https://img.shields.io/badge/Gmail-sidducv0528%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidducv0528@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sidducv0528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidducv0528)
 
-**Open to:** Data Science Internships • Data Analyst Roles • ML Collaborations • Research Roles • Freelance Data Projects
+**Open to:** Data Analyst Roles • BI Analyst Roles • Data Science Internships • ML Collaborations • Freelance Data Projects
 
 ---
 
