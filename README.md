@@ -66,7 +66,7 @@ Every project below has a repo, and I can explain every number in it.
 |---|---|
 | [**Bank Loan Risk Analytics**](https://github.com/sidducv0528/Bank-Loan-Report-Analysis) | SQL Server + Power BI + DAX on **38,576 loan records**, a Risk Drivers page, 20-slide deck |
 | [**Meta Ad Performance**](https://github.com/sidducv0528/Meta-Ad-Performance-Analysis-PowerBI) | **400K** Facebook/Instagram ad events, star-schema model, DAX measures |
-| [**IPL 2026 Analytics**](https://github.com/sidducv0528/IPL-2026-Performance-Analytics) | **17,477** ball-by-ball records → Excel dashboard; dataset published on Kaggle |
+| [**IPL 2026 Analytics**](https://github.com/sidducv0528/IPL-2026-Performance-Analytics) | **17,477** ball-by-ball records → Excel dashboard + Python analysis |
 | [**Olist E-Commerce Analytics**](https://github.com/sidducv0528/olist-ecommerce-analytics) | End-to-end analysis of the Brazilian e-commerce dataset, built with **IBM Bob** |
 | **Swiggy Sales & Ratings** | Food-delivery dashboard with data dictionary and insights write-up |
 
@@ -94,7 +94,7 @@ Every project below has a repo, and I can explain every number in it.
 </details>
 
 <details open>
-<summary><b>⚡ AI Tools & Vibe Coding</b> — building fast with AI, verifying before shipping</summary>
+<summary><b>⚡ AI Tools</b> — building fast with AI, verifying before shipping</summary>
 <br/>
 
 **What I do:** use AI tools (Claude, IBM Bob) to go from idea to working app quickly — then read, test and own the result.
@@ -161,7 +161,7 @@ Neural-network price estimator deployed as a web app.
 
 ### 🏏 [IPL 2026 — From Ball to Trophy](https://github.com/sidducv0528/IPL-2026-Performance-Analytics)
 **74 matches · 17,477 balls · 27,296 runs · 879 wickets** → Jupyter analysis + interactive Excel dashboard.
-`Python` `Excel` `Kaggle` · [📊 Kaggle Dataset](https://www.kaggle.com/datasets/sidduv0528/ipl-2026-complete-season-analysis)
+`Python` `Excel` `Kaggle`
 
 </td>
 </tr>
@@ -236,7 +236,7 @@ Neural-network price estimator deployed as a web app.
 | **Be10X AI Tools Workshop** | Practical AI tools | ✅ Certified |
 | **NCC 'B' Certificate** | Leadership & discipline | ✅ A Grade |
 | **30-Day SQL Challenge** | Daily SQL practice | ✅ Completed |
-| **Kaggle** — IPL 2026 dataset | Public dataset publication | 🚀 Live |
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
